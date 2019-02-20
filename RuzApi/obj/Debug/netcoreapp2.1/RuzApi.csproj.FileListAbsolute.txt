@@ -1,0 +1,14 @@
+C:\Users\dvv27\Desktop\WEB\ASP.NET\RuzApi\RuzApi\obj\Debug\netcoreapp2.1\RuzApi.csprojAssemblyReference.cache
+C:\Users\dvv27\Desktop\WEB\ASP.NET\RuzApi\RuzApi\obj\Debug\netcoreapp2.1\RuzApi.csproj.CoreCompileInputs.cache
+C:\Users\dvv27\Desktop\WEB\ASP.NET\RuzApi\RuzApi\obj\Debug\netcoreapp2.1\RuzApi.RazorAssemblyInfo.cache
+C:\Users\dvv27\Desktop\WEB\ASP.NET\RuzApi\RuzApi\obj\Debug\netcoreapp2.1\RuzApi.RazorAssemblyInfo.cs
+C:\Users\dvv27\Desktop\WEB\ASP.NET\RuzApi\RuzApi\obj\Debug\netcoreapp2.1\RuzApi.AssemblyInfoInputs.cache
+C:\Users\dvv27\Desktop\WEB\ASP.NET\RuzApi\RuzApi\obj\Debug\netcoreapp2.1\RuzApi.AssemblyInfo.cs
+C:\Users\dvv27\Desktop\WEB\ASP.NET\RuzApi\RuzApi\bin\Debug\netcoreapp2.1\RuzApi.deps.json
+C:\Users\dvv27\Desktop\WEB\ASP.NET\RuzApi\RuzApi\bin\Debug\netcoreapp2.1\RuzApi.runtimeconfig.json
+C:\Users\dvv27\Desktop\WEB\ASP.NET\RuzApi\RuzApi\bin\Debug\netcoreapp2.1\RuzApi.runtimeconfig.dev.json
+C:\Users\dvv27\Desktop\WEB\ASP.NET\RuzApi\RuzApi\bin\Debug\netcoreapp2.1\RuzApi.dll
+C:\Users\dvv27\Desktop\WEB\ASP.NET\RuzApi\RuzApi\bin\Debug\netcoreapp2.1\RuzApi.pdb
+C:\Users\dvv27\Desktop\WEB\ASP.NET\RuzApi\RuzApi\obj\Debug\netcoreapp2.1\RuzApi.RazorTargetAssemblyInfo.cache
+C:\Users\dvv27\Desktop\WEB\ASP.NET\RuzApi\RuzApi\obj\Debug\netcoreapp2.1\RuzApi.dll
+C:\Users\dvv27\Desktop\WEB\ASP.NET\RuzApi\RuzApi\obj\Debug\netcoreapp2.1\RuzApi.pdb
